@@ -9,6 +9,7 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
+gem 'pig_latin'
 
 group :test do
       gem 'rspec'
